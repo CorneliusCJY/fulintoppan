@@ -1,0 +1,11 @@
+[
+    {
+        "name" : "book_name_value",
+        "author" : "author_value",
+        "borrower" : [
+            "top_1_borrower_value",
+            "top_2_borrower_value",
+            "top_3_borrower_value"
+        ]
+    }
+]
